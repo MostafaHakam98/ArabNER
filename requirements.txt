@@ -1,0 +1,8 @@
+seqeval
+transformers
+datasets
+tokenizers
+evaluate
+json
+numpy
+scikit-learn
